@@ -1,3 +1,13 @@
+# React Weather App
+I bulit my first react project by using "useEffect, useState" methods, Tailwind CSS, Axios HTTP Client and Open Weather API (
+
+ [Tailwind CSS](https://tailwindcss.com/)
+ 
+ [Axios-HTTP](https://axios-http.com/docs/intro)
+ 
+ [Open Weather Current API](https://openweathermap.org/current) 
+# Demo GIF
+
 ![](https://github.com/hakanozdemir85/React_Weather_App/blob/main/gif.gif)
 
 # Getting Started with Create React App
