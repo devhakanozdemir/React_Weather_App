@@ -1,5 +1,5 @@
 # React Weather App
-I bulit my first react project by using "useEffect, useState" methods, Tailwind CSS, Axios HTTP Client and Open Weather API (
+I built my first react project by using "useEffect, useState" methods, Tailwind CSS, Axios HTTP Client and Open Weather API (
 
  [Tailwind CSS](https://tailwindcss.com/)
  
